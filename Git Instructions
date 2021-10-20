@@ -1,0 +1,3 @@
+use cmd instead of git bash
+add git to env variable path
+git clone <PAT>@<repo>
